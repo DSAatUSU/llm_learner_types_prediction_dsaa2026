@@ -117,7 +117,7 @@ python sequential_prediction_learner_types_tensorflow_improved_model.py
 If you use this repository, please cite the corresponding DSAA 2026 paper (update the fields below):
 
 ```bibtex
-@INPROCEEDINGS{khan2026enhancing,
+@INPROCEEDINGS{khan2026understand,
   author={Muhammad Fawad Akbar Khan and Ludia Eka Feri and John Edwards and Hamid Karimi},
   booktitle={2026 IEEE 13th International Conference on Data Science and Advanced Analytics (DSAA)}, 
   title={Can LLMs Understand the Student Code-writing Process? Learner Profile Identification from Raw Keystrokes and Code Snapshot Sequences}, 
