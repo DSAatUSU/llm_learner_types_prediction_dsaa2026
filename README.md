@@ -114,13 +114,13 @@ python sequential_prediction_learner_types_tensorflow_improved_model.py
 
 ## Citation
 
-If you use this repository, please cite the corresponding EDM 2026 paper (update the fields below):
+If you use this repository, please cite the corresponding DSAA 2026 paper (update the fields below):
 
 ```bibtex
-@inproceedings{edm2026-learner-types,
+@inproceedings{dsaa2026-learner-types,
   title     = {LLM Profiling for Learner Type Prediction},
   author    = {<Authors>},
-  booktitle = {Proceedings of the Educational Data Mining (EDM) Conference},
+  booktitle = {Proceedings of the Educational Data Mining (DSAA) Conference},
   year      = {2026}
 }
 ```
