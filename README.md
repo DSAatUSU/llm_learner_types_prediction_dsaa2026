@@ -1,4 +1,4 @@
-# LLM Profiling for Learner Type Prediction (EDM 2026)
+# LLM Profiling for Learner Type Prediction (DSAA 2026)
 
 This repository contains code and experiment artifacts for an Educational Data Mining (EDM) 2026 submission/paper on **profiling student programming behavior** and **predicting learner types** from time-ordered code snapshots, engineered behavioral features, and (optionally) embeddings.
 
