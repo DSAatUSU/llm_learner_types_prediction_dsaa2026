@@ -117,10 +117,14 @@ python sequential_prediction_learner_types_tensorflow_improved_model.py
 If you use this repository, please cite the corresponding DSAA 2026 paper (update the fields below):
 
 ```bibtex
-@inproceedings{dsaa2026-learner-types,
-  title     = {LLM Profiling for Learner Type Prediction},
-  author    = {<Authors>},
-  booktitle = {Proceedings of the Educational Data Mining (DSAA) Conference},
-  year      = {2026}
-}
+@INPROCEEDINGS{khan2026enhancing,
+  author={Muhammad Fawad Akbar Khan and Ludia Eka Feri and John Edwards and Hamid Karimi},
+  booktitle={2026 IEEE 13th International Conference on Data Science and Advanced Analytics (DSAA)}, 
+  title={Can LLMs Understand the Student Code-writing Process? Learner Profile Identification from Raw Keystrokes and Code Snapshot Sequences}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={},
+  keywords={Programming; Learning Behavior Profiles; Keystroke Dynamics;  Code Snapshots;  Large Language Models (LLMs)}
+  }
 ```
